@@ -1,5 +1,5 @@
 # NewsApp
-Final Project for the Android Basics NanoDegree using API's and JSON parsing to create an app that tailors to a specific section of News article headings that open a browser 
+Final Project for the Android Basics NanoDegree using Loaders, API's and JSON parsing to create an app that tailors to a specific section of News article headings that open a browser 
 with intents if a particular news article needs to be studied.
 
 ## Installation
