@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="there_is_no_information_to_display">There is no information to display</string>
+</resources>
